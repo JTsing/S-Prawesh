@@ -1,0 +1,2 @@
+# Principle Component Analysis of Financial Time Series
+> Given data as input in a csv file, Program will reduce the dimensionality of the data in such a way that we can find maximum variability in the data. 
